@@ -1,24 +1,21 @@
 - title: "About"
   href: "/about/"
 
-- title: "Research"
-  href: "/research/"
-
-- title: "Projects"
-  href: "/projects/"
+- title: "Work Example"
+  href: "/work-example/"
 
 - title: "Blog"
   href: "/blog/"
-
-- title: "CV"
-  href: "/cv/"
-
-- title: "Miscellany"
-  href: "/miscellany/"
   subcategories:
-    - subtitle: "Courses Undertaken"
-      subhref: "/miscellany/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+    - subtitle: "About my Life"
+      subhref: "/blog/my-life/"
+    - subtitle: "Dream Journal"
+      subhref: "/blog/dream-journal/"
+    - subtitle: "Maybe Useful Info?"
+      subhref: "/blog/schrödingercat/"
+    - subtitle: "Random Picture"
+      subhref: "/blog/random-pic/"
+
+
+- title: "Resume"
+  href: "/resume/"
