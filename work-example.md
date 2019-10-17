@@ -5,7 +5,7 @@ title: Work Example
 ---
 
 
-<h2>Project</h2>
+## Project
 
 <ul>
 	<li>
@@ -37,12 +37,11 @@ title: Work Example
 		<i>Somang Han</i><br>
 		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
 	</li><br>
-	
+
+</ul>	
 		
-<\ul>	
-
-
-<h2>Publications</h2>
+	
+## Publications
 <ul>
 	<li>
 		<b>"Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes"</b><br>
@@ -56,9 +55,10 @@ title: Work Example
 		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">pdf</div></a>
 	</li><br>
 	
-<\ul>		
+</ul>		
 
-<h2>Research Projects</h2>
+## Research Projects
+
 <ul>
 	<li>
 		<b>Catching Credit Card Thieves with R</b><br>
