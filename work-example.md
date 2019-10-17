@@ -40,8 +40,6 @@ title: Work Example
 	
 		
 	
-</ul>
-
 
 
 <h2>Publications</h2>
@@ -57,7 +55,8 @@ title: Work Example
 		Underrepresented Students in Topology and Algebra Research Symposium, 2018<br>
 		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">pdf</div></a>
 	</li><br>
-</ul>
+	
+	
 
 <h2>Research Projects</h2>
 <ul>
