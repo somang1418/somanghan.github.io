@@ -36,7 +36,7 @@ title: Work Example
 		<a href="https://www.kaggle.com/somang1418/time-to-tune-your-model-shortandsweet"><div class="color-button">code</div></a>
 	</li><br>
 </ol>
-<br>
+
 <h3>R</h3>
 <ol>
 	<li>
@@ -58,8 +58,7 @@ title: Work Example
 	
 </ol>
 </ul>	
-		
-	
+			
 <h2>Publications</h2>
 
 <ul>
