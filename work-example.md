@@ -4,11 +4,113 @@ permalink: /work-example/
 title: Work Example
 ---
 
+<li>
+Symantec Research Labs Graduate Fellowship, 2019   <a target="_blank" href="https://www.symantec.com/about/careers/graduate-fellowship"><img src="/images/question-mark.png" width="10"></a>
+</li><br>
+<li>
+Best Paper Honorable Mention, ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2019   <a target="_blank" href="https://chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/"><img src="/images/question-mark.png" width="10"></a>
+</li><br>
+<li>
+Distinguished Paper Award, Symposium on Usable Privacy and Security (SOUPS), 2018   <a target="_blank" href="https://www.usenix.org/conference/soups2018"><img src="/images/question-mark.png" width="10"></a>
+</li><br>
+<li>
+UMSI Pre-candidacy Paper Distinguished Award, 2018
+</li>
+</ul>
 
-## Project
+<br>
 
-### Python 
 
-* "TMDB Box Office Prediction by LGB/XGB Regression Models"<br> <a href="https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme"><div class="color-button">code</div></a><br>
+
+<h2>Projects</h2>
+
+<h3>Python</h3>
+<ol>
+<ul>
+	<li>
+		<b>"TMDB Box Office Prediction by LGB/XGB Regression Models"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>"Santander Customer Transaction Prediction by LGB Classifier Tuned by Bayesian Optimization"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>"Using Map Visualization on Missing Migrants Project"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>"Making Youtube Title by LSTM"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/youtube-video-title-generator-by-lstm-eda"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>"Time to Tune Your Tree Based Models"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/time-to-tune-your-model-shortandsweet"><div class="color-button">code</div></a>
+	</li><br>
+</ol>
+
+<br>
+<h3>R</h3>
+<ol>
+	<li>
+		<b>"R related project"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>"R related project2"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>"R related project3"</b><br>
+		<i>Somang Han</i><br>
+		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
+	</li><br>
+	
+	
+</ol>
+</ul>	
+		
+	
+<h2>Publications</h2>
+
+<ul>
+	<li>
+		<b>"Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes"</b><br>
+		<i> Youngsoon Kang, Kyle Nickodem, Somang Han, Mireya Smith</i><br>
+		American Educational Research Association Conference, 2019<br>
+		<a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">pdf</div></a></li><br>
+	<li>
+		<b>"Distributions of Matching Distances in Topological Data Analysis"</b><br>
+		<i>Somang Han, Taylor Okonek, Nikesh Yadav, Xiaojun Zheng</i><br>
+		Underrepresented Students in Topology and Algebra Research Symposium, 2018<br>
+		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">pdf</div></a>
+</li><br>
+	
+</ul>		
+
+<h2>Research Projects</h2>
+
+<ul>
+	<li>
+		<b>Catching Credit Card Thieves with R</b><br>
+		 MinneFRAMA 2019<br>
+		<i>ID Insight</i><br>
+		<a href="https://drive.google.com/drive/folders/1Hp9RUgBgQaU6dw49Um8ag3bzhHmHPTW8"><div class="color-button">presentation</div></a>
+</li><br>
+	<li>
+		<b>"Topological Data Analysis on Network of Game of Thrones"</b><br>
+		<i>Somang Han</i><br>
+		Joint Mathematics Meetings, 2018<br>
+		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">poster</div></a>
+	</li><br>
+</ul>
+	
 
 	
