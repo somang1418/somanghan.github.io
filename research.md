@@ -26,5 +26,5 @@ title: Research
 		<b>Catching Credit Card Thieves with R</b><br>
 		 MinneFRAMA 2019<br>
 		<i>ID Insight</i><br>
-		<a href="https://drive.google.com/drive/folders/1Hp9RUgBgQaU6dw49Um8ag3bzhHmHPTW8"><div class="color-button">presentation</div></a><a href=""><div class="color-button">code</div></a>
+		<a href="https://drive.google.com/drive/folders/1Hp9RUgBgQaU6dw49Um8ag3bzhHmHPTW8"><div class="color-button">presentation</div></a>
 	</li><br>
