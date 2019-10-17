@@ -7,8 +7,8 @@ title: Work Example
 
 <h2>Projects</h2>
 
-<h3>Python</h3>
-<ol>
+### Python
+
 <ul>
 	<li>
 		<b>"TMDB Box Office Prediction by LGB/XGB Regression Models"</b><br>
@@ -35,10 +35,6 @@ title: Work Example
 		<i>Somang Han</i><br>
 		<a href="https://www.kaggle.com/somang1418/time-to-tune-your-model-shortandsweet"><div class="color-button">code</div></a>
 	</li><br>
-</ol>
-
-<h3>R</h3>
-<ol>
 	<li>
 		<b>"R related project"</b><br>
 		<i>Somang Han</i><br>
@@ -55,8 +51,7 @@ title: Work Example
 		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
 	</li><br>
 	
-	
-</ol>
+
 </ul>	
 			
 <h2>Publications</h2>
