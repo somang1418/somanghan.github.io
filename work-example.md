@@ -7,7 +7,7 @@ title: Work Example
 
 <h2>Projects</h2>
 <h3>Python</h3>
-___
+
 <ul>
 	<li>
 		<b>"TMDB Box Office Prediction by LGB/XGB Regression Models"</b><br>
@@ -38,7 +38,7 @@ ___
 
 
 <h3>R</h3>
-___
+
 <ul>
 	<li>
 		<b>"R related project"</b><br>
@@ -60,7 +60,7 @@ ___
 
 			
 <h2>Publications</h2>
-___
+
 <ul>
 	<li>
 		<b>"Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes"</b><br>
@@ -78,7 +78,7 @@ ___
 
 
 <h2>Research Projects</h2>
-___
+
 <ul>
 	<li>
 		<b>Catching Credit Card Thieves with R</b><br>
