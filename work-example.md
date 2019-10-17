@@ -6,10 +6,8 @@ title: Work Example
 
 
 <h2>Projects</h2>
-___
-
 <h3>Python</h3>
-
+___
 <ul>
 	<li>
 		<b>"TMDB Box Office Prediction by LGB/XGB Regression Models"</b><br>
@@ -37,9 +35,10 @@ ___
 		<a href="https://www.kaggle.com/somang1418/time-to-tune-your-model-shortandsweet"><div class="color-button">code</div></a>
 	</li><br>
 </ul>	
-___
+
 
 <h3>R</h3>
+___
 <ul>
 	<li>
 		<b>"R related project"</b><br>
@@ -58,10 +57,10 @@ ___
 	</li><br>	
 
 </ul>	
-___
+
 			
 <h2>Publications</h2>
-
+___
 <ul>
 	<li>
 		<b>"Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes"</b><br>
@@ -76,10 +75,10 @@ ___
 </li><br>
 	
 </ul>		
-___
+
 
 <h2>Research Projects</h2>
-
+___
 <ul>
 	<li>
 		<b>Catching Credit Card Thieves with R</b><br>
