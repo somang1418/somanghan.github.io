@@ -39,7 +39,7 @@ title: Work Example
 	</li><br>
 	
 		
-	
+<\ul>	
 
 
 <h2>Publications</h2>
@@ -56,7 +56,7 @@ title: Work Example
 		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">pdf</div></a>
 	</li><br>
 	
-	
+<\ul>		
 
 <h2>Research Projects</h2>
 <ul>
