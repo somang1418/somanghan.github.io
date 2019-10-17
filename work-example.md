@@ -7,7 +7,7 @@ title: Work Example
 
 <h2>Projects</h2>
 
-### Python
+<h3>Python</h3>
 
 <ul>
 	<li>
@@ -35,8 +35,10 @@ title: Work Example
 		<i>Somang Han</i><br>
 		<a href="https://www.kaggle.com/somang1418/time-to-tune-your-model-shortandsweet"><div class="color-button">code</div></a>
 	</li><br>
-
+</ul>	
+---------------
 <h3>R</h3>
+<ul>
 	<li>
 		<b>"R related project"</b><br>
 		<i>Somang Han</i><br>
@@ -51,8 +53,7 @@ title: Work Example
 		<b>"R related project3"</b><br>
 		<i>Somang Han</i><br>
 		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
-	</li><br>
-	
+	</li><br>	
 
 </ul>	
 			
