@@ -4,12 +4,24 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+## About me 
 
-Describe yourself here. Dummy text ahead.
+I am a motivated learner with a great passion for Data Analysis & Machine Learning & AI fields. I am interested in solving business chellenges using my analytical skills and leveraging organizations by giving them thoughtful insights for their decision making. Currently, I am working as a Decision Scientist in Bluestem Brands. I am working in the cross functional work environment that prompts me to interact with various marketing teams across the board. I build predictive models in order to deliver data-driven solutions that identify points-of-difference in customer behavior, promotional sensitivity, channel shopping preference, and more. <br>
+Other tasks involve with supporting marketing department through test design and measurement, making R Shiny/Flexdashboard dashboards for analyzing customer survey data by Natural Language Processing, and doing model validation for the Credit Department. 
+Occasionally, I research new techniques for statistical model buildings and neural networks to improve model gains. <br><br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Goal of my life 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+<small>The more I learn more about the Analytics world and meet more people in this field, the more I feel that there is an increasing urgency that we need to support people who do not have access tools to follow up cutting edge technology. As the 4th Industrial revolution progresses, the gap between people who utilize advanced technology and people who cannot follow up technology due to socioeconomic status dramatically enlarges. I am concerned about the unbalanced power in our society and seek possible ways to contribute to lessening the gap using my skills. I especially care about underprivileged youth and want to empower them by providing educational facilities where they can learn powerful skills, such as machine learning and other programming applications. My idea is at initial stage, but it is ongoing..! </small>
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+
+## Interesting Facts about me
+
+<small>* I had my own radio show called "Beyond the Wall", where I invited friends from different places in the world, shared their own special stories, and connected with people</small><br>
+
+
+<small>* According to some of my friends, I run like a penguin 🐧...?</small> 
+
+
+<small>* I used to be in the junior national alpine ski team (South Korea)</small><br>
+
