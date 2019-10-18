@@ -87,7 +87,13 @@ title: Work Example
 		<a href="https://drive.google.com/drive/folders/1Hp9RUgBgQaU6dw49Um8ag3bzhHmHPTW8"><div class="color-button">presentation</div></a>
 </li><br>
 	<li>
-		<b>"Topological Data Analysis on Network of Game of Thrones"</b><br>
+		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
+		<i>yJoshua Pelayo, Pony Ameri, Somang Han, Thu Ha</i><br>
+		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
+		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">report</div></a>
+	</li><br>
+	<li>
+		<b>Topological Data Analysis on Network of Game of Thrones</b><br>
 		<i>Somang Han</i><br>
 		Joint Mathematics Meetings, 2018<br>
 		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">poster</div></a>
