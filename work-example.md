@@ -10,12 +10,12 @@ title: Work Example
 
 <ul>
 	<li>
-		<b>TMDB Box Office Prediction by LGB/XGB Regression Models</b><br>
+		<b>TMDB Box Office Prediction by LGBM/XGB Regression Models</b><br>
 		<i>Somang Han</i><br>
 		<a href="https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Santander Customer Transaction Prediction by LGB Classifier Tuned by Bayesian Optimization</b><br>
+		<b>Santander Customer Transaction Prediction by LGBM Classifier Tuned by Bayesian Optimization</b><br>
 		<i>Somang Han</i><br>
 		<a href="https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm"><div class="color-button">code</div></a>
 	</li><br>
