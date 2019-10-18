@@ -41,7 +41,7 @@ title: Work Example
 
 <ul>
 	<li>
-		<b>Building R dashboard for the Customer Review of Top 5 Products</b><br>
+		<b>Building R dashboard for the Customer Review of Top 3 Products</b><br>
 		<i>Somang Han</i><br>
 		<a href="/rproject/customer_review.html"><div class="color-button">code</div></a><a href="https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews"><div class="color-button">data</div></a>
 	</li><br>
