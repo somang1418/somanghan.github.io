@@ -88,7 +88,7 @@ title: Work Example
 </li><br>
 	<li>
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
-		<i>yJoshua Pelayo, Pony Ameri, Somang Han, Thu Ha</i><br>
+		<i>Joshua Pelayo, Pony Ameri, Somang Han, Thu Ha</i><br>
 		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
 		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">report</div></a>
 	</li><br>
