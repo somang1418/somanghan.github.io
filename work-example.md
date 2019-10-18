@@ -48,7 +48,7 @@ title: Work Example
 	<li>
 		<b>"R related project2"</b><br>
 		<i>Somang Han</i><br>
-		<a href="https://www.kaggle.com/somang1418/disclose-the-story-with-the-interactive-map"><div class="color-button">code</div></a>
+		<a href="/rproject/final.html"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>"R related project3"</b><br>
