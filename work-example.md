@@ -4,7 +4,6 @@ permalink: /work-example/
 title: Work Example
 ---
 
-https://github.com/somang1418/Travelling_Salesman_Problem
 
 <h2>Projects</h2>
 <h3>Python</h3>
