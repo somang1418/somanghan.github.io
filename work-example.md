@@ -4,6 +4,7 @@ permalink: /work-example/
 title: Work Example
 ---
 
+https://github.com/somang1418/Travelling_Salesman_Problem
 
 <h2>Projects</h2>
 <h3>Python</h3>
@@ -40,6 +41,11 @@ title: Work Example
 <h3>R</h3>
 
 <ul>
+	<li>
+		<b>Using Markov Chains to Find an Aproximate Solution for Travelling Salesman Problem</b><br>
+		<i>Somang Han</i><br>
+		<a href="/https://github.com/somang1418/Travelling_Salesman_Problem"><div class="color-button">code</div></a>
+	</li><br>
 	<li>
 		<b>The Effect of Attitudes Towards Mental Health in the Workplace</b><br>
 		<i>Somang Han, Pony Ameri, Nadia El Mouldi</i><br>
