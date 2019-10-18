@@ -43,7 +43,7 @@ title: Work Example
 	<li>
 		<b>Building R dashboard for the Customer Review of Top 3 Products</b><br>
 		<i>Somang Han</i><br>
-		<a href="/rproject/customer_review.html"><div class="color-button">code</div></a><a href="https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews"><div class="color-button">data</div></a>
+		<a href="/rproject/customer_review_new.html"><div class="color-button">code</div></a><a href="https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews"><div class="color-button">data</div></a>
 	</li><br>
 	<li>
 		<b>Using Markov Chains to Find an Aproximate Solution for Travelling Salesman Problem</b><br>
