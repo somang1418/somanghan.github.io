@@ -4,16 +4,17 @@ general_email: somang1418@gmail.com
 # academic_email: somang1418@gmail.com
 
 description: > # this means to ignore newlines until "baseurl:"
-  Site copyright: @somang1418. Last updated in October 2019.
+  Site copyright: @somang1418 
 #
 # baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
 url: "https://somang1418.github.io" # the base hostname & protocol for your site
 
-# twitter_username: yixinzou1124
+
 github_username: somang1418
 linkedin_username: so-mang-han
-# facebook_username: yixin1124
+instagram_username: so_is_simple
+
 # feel free to add other links here; you will have to add the SVG icon in _includes/footer.html
 
 # Build settings
