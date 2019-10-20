@@ -16,7 +16,9 @@ The more I learn more about the Analytics world and meet more people in this fie
 
 ## Interesting Facts about me
 
-* I had my own radio show called "Beyond the Wall", where I invited friends from different places in the world, shared their own special stories, and connected with people<br>
+* I had my own radio show called  <a href="https://www.facebook.com/BTWSOSO">"Beyond the Wall"</a>, where I invited friends from different places in the world, shared their own special stories, and connected with people<br>
+
+* I worked as an assistant director for <a href="https://www.imdb.com/name/nm8408208/?ref_=fn_al_nm_1">the first Web Series festival</a> in Northeast Asia<br>
 
 * According to some of my friends, I run like a penguin 🐧...?<br>
 
