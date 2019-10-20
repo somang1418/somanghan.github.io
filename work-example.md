@@ -100,7 +100,7 @@ title: Work Example
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
 		<i>Joshua Pelayo, Pony Ameri, Somang Han, Thu Ha</i><br>
 		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
-		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">report</div></a>
+		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">report</div></a>
 	</li><br>
 	<li>
 		<b>Topological Data Analysis on Network of Game of Thrones</b><br>
