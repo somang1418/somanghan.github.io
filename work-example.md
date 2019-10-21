@@ -30,13 +30,13 @@ title: Work Example
 	<li>
 		<b>Catching Credit Card Thieves with R</b><br>
 		 MinneFRAMA 2019<br>
-		<small>The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems will be discussed as well.</small><br>
+		<small>The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems were discussed as well.</small><br>
 		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a>
 </li><br>
 	<li>
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
 		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
-		<small>The main purpose of the study is to analyze the negative stereotypes behind the immigrants from 8 travel ban countries in the United States and the condition of living in the US. First, we will make clusters of U.S states based on important features from the exploratory data analysis (Christan percent per state, Red State Voting per state, and etc. ), assign a cluster number to individuals based on where they resided, and compare immigrants by clusters to analyze characteristics of individuals from different clusters. Then, we will address negative stereotypes associated with crime and violence against immigrants, and examine whether the empirical data support these stereotypes. Finally, we analyze the level of success that immigrants attain, based on different demographic factors. We will compare immigrants and people in the US by different demographic factors.</small><br>
+		<small>The main purpose of the study is to analyze the negative stereotypes behind the immigrants from 8 travel ban countries in the United States and the condition of living in the US. First, we made clusters of U.S states based on important features from the exploratory data analysis (Christan percent per state, Red State Voting per state, and etc. ), assigned a cluster number to individuals based on where they resided, and compared immigrants by clusters to analyze characteristics of individuals from different clusters. Then, we addressed negative stereotypes associated with crime and violence against immigrants, and examined whether the empirical data support these stereotypes. Finally, we analyzed the level of success that immigrants attain, based on different demographic factors. We compared immigrants and people in the US by different demographic factors.</small><br>
 		<a href="https://docs.google.com/presentation/d/1ZntSUh4f5K-AHEX_e7vFSkVma3VJttOjVLMDRbAXq5M/edit?usp=sharing"><div class="color-button">presentation</div></a><br>
 		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">paper</div></a><br>	
 	</li><br>
@@ -61,12 +61,12 @@ title: Work Example
 	<li>
 		<b>Santander Customer Transaction Prediction by LGBM Classifier Tuned by Bayesian Optimization</b><br>
 		(Kaggle Competition)[https://www.kaggle.com/c/santander-customer-transaction-prediction] 
-		<small>The goal is to identify which customers will make a specific transaction in the future and maximize the evaluation function (AUC). I used LightGBM classifier tuned by Bayesian Optimization. This notebook will give you a good idea of Baysian Optimization and the simple implementation of Baysian Optimization with BayesianOptimization, which I found that it is faster than other Baysian Optimization functions in Python (ex. Scikit-Optimize and Hyperopt) for my model.</small><br>
+		<small>The goal is to identify which customers will make a specific transaction in the future and maximize the evaluation function (AUC). I used LightGBM classifier tuned by Bayesian Optimization. The code might give you a good idea of Baysian Optimization and the simple implementation of Baysian Optimization with BayesianOptimization, which I found that it is faster than other Baysian Optimization functions in Python (ex. Scikit-Optimize and Hyperopt) for my model.</small><br>
 		<a href="https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>Making Youtube Title by LSTM</b><br>
-		<small>Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. In this notebook, I explained how to create a language model for generating natural language text by implementing and training state-of-the-art Recurrent Neural Network. </small><br>
+		<small>Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. In this code, I explained how to create a language model for generating natural language text by implementing and training state-of-the-art Recurrent Neural Network. </small><br>
 		<a href="https://www.kaggle.com/somang1418/youtube-video-title-generator-by-lstm-eda"><div class="color-button">code</div></a>
 	</li><br>
 </ul>	
@@ -76,7 +76,7 @@ title: Work Example
 <ul>
 	<li>
 		<b>Using Markov Chains to Find an Approximate Solution for Travelling Salesman Problem</b><br>
-		<small>The Traveling Salesperson Problem (TSP) is a classic problem in combinatorial optimization. Given N points in a plane, we want to find the shortest path that visits all N points and returns to the starting point. It is called an NP-Hard problem because it is impossible to find the least cost of connecting all points in the graph. However, we can use Markov chains to find an approximate solution. I will utilize Markov chains to find an approximate solution for the TSP in R.</small><br>
+		<small>The Traveling Salesperson Problem (TSP) is a classic problem in combinatorial optimization. Given N points in a plane, we want to find the shortest path that visits all N points and returns to the starting point. It is called an NP-Hard problem because it is impossible to find the least cost of connecting all points in the graph. However, we can use Markov chains to find an approximate solution. I utilized Markov chains to find an approximate solution for the TSP in R.</small><br>
 		<a href="https://github.com/somang1418/Travelling_Salesman_Problem"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
@@ -86,7 +86,7 @@ title: Work Example
 	</li><br>
 	<li>
 		<b>Text classification on Product Reviews from Amazon Kindle Store</b><br>
-		<small>In this project, we are going to compare two different data organization methods on text classification. Specifically, we will work on three algorithms for each method including Linear Model, Linear Discriminant Analysis (LDA) and Random Forest as the evidence. At the same time, we will record the time consumed for each algorithm to test the effeciency both processes.</small><br>
+		<small>In this project, we compared two different data organization methods on text classification. Specifically, we worked on three algorithms for each method including Linear Model, Linear Discriminant Analysis (LDA) and Random Forest as the evidence. At the same time, we recorded the time consumed for each algorithm to test the effeciency both processes.</small><br>
 		<a href="/rproject/Final.html"><div class="color-button">code</div></a>
 	</li><br>
 	
@@ -95,7 +95,7 @@ title: Work Example
 <br>
 
 
-If you want to see more projects that I worked on, you can check out <a href="https://www.kaggle.com/somang1418">my Kaggle profile</a> and <a href="https://github.com/somang1418">my github profile</a>. Thank you for your interest! If you are interested in collaborating with me, do not hesitate to email me :)   
+If you want to see more projects that I worked on, you can check out <a href="https://www.kaggle.com/somang1418">my kaggle profile</a> and <a href="https://github.com/somang1418">my github profile</a>. Thank you for your interest! If you are interested in collaborating with me, do not hesitate to email me :)   
 
 
 	
