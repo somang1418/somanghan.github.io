@@ -10,15 +10,16 @@ title: Work Example
 <ul>
 	<li>
 		<b>Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes</b><br>
-		American Educational Research Association Conference, 2019<br>
+		American Educational Research Association Conference, 2019
 		<a href="https://drive.google.com/file/d/1KHZiLYr9RUIb8mLNMSTKBuakwk-LRYbK/view?usp=sharing"><div class="color-button">summary</div></a> <a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">paper</div></a><br><br>
 		<i>In order to help clarify the associations between intensity and breadth of out-of-school-time (OST) participation with SEL and academic outcomes, while illuminating differences in participation levels by student characteristics, we employed latent class analysis (LCA) with statewide data (anonymously administered to 168,733 public school students) to identify different classifications of OST activity participation that can aid practitioners to foster opportunities to improve students developmental skills and academic performance and success. Hierarchical linear modeling (HLM) was used to investigate the association between the OST classes and the seven outcome measures of developmental skills, supports and self-reported GPA while controlling for the covariates of grade, biological sex, race/ethnicity, special education status, FRL status, and changed schools in the last year. </i>
-	</li><br>
+	</li><br><br>
 	<li>
 		<b>Distributions of Matching Distances in Topological Data Analysis</b><br>
-	Underrepresented Students in Topology and Algebra Research Symposium, 2018<br><br>
-		<small>This paper provides an accessible introduction to two-parameter persistent homology and presents results about matching distance between 2-D persistence modules obtained from families of point clouds. Results include observations of how differences in geometric structure of point clouds affect the matching distance between persistence modules. We offer these results as a starting point for the investigation of more complex data.</small><br>
-	<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">paper</div></a>
+	Underrepresented Students in Topology and Algebra Research Symposium, 2018<br>
+		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">paper</div></a><br><br>
+		<i>This paper provides an accessible introduction to two-parameter persistent homology and presents results about matching distance between 2-D persistence modules obtained from families of point clouds. Results include observations of how differences in geometric structure of point clouds affect the matching distance between persistence modules. We offer these results as a starting point for the investigation of more complex data.</i><br>
+	
 </li><br>
 	
 </ul>		
@@ -30,8 +31,8 @@ title: Work Example
 	<li>
 		<b>Catching Credit Card Thieves with R</b><br>
 		 MinneFRAMA 2019<br>
+		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a><br><br>
 		<small>The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems were discussed as well.</small><br>
-		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a>
 </li><br>
 	<li>
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
