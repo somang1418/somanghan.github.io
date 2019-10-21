@@ -10,7 +10,7 @@ title: Work Example
 <ul>
 	<li>
 		<b>Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes</b><br>
-		American Educational Research Association Conference, 2019
+		American Educational Research Association Conference, 2019<br>
 		<a href="https://drive.google.com/file/d/1KHZiLYr9RUIb8mLNMSTKBuakwk-LRYbK/view?usp=sharing"><div class="color-button">summary</div></a> <a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">paper</div></a><br><br>
 		<i>In order to help clarify the associations between intensity and breadth of out-of-school-time (OST) participation with SEL and academic outcomes, while illuminating differences in participation levels by student characteristics, we employed latent class analysis (LCA) with statewide data (anonymously administered to 168,733 public school students) to identify different classifications of OST activity participation that can aid practitioners to foster opportunities to improve students developmental skills and academic performance and success. Hierarchical linear modeling (HLM) was used to investigate the association between the OST classes and the seven outcome measures of developmental skills, supports and self-reported GPA while controlling for the covariates of grade, biological sex, race/ethnicity, special education status, FRL status, and changed schools in the last year. </i>
 	</li><br><br>
@@ -32,21 +32,21 @@ title: Work Example
 		<b>Catching Credit Card Thieves with R</b><br>
 		 MinneFRAMA 2019<br>
 		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a><br><br>
-		<small>The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems were discussed as well.</small><br>
-</li><br>
+		<i>The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems were discussed as well.</i>
+</li><br><br>
 	<li>
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
 		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
-		<small>The main purpose of the study is to analyze the negative stereotypes behind the immigrants from 8 travel ban countries in the United States and the condition of living in the US. First, we made clusters of U.S states based on important features from the exploratory data analysis (Christan percent per state, Red State Voting per state, and etc. ), assigned a cluster number to individuals based on where they resided, and compared immigrants by clusters to analyze characteristics of individuals from different clusters. Then, we addressed negative stereotypes associated with crime and violence against immigrants, and examined whether the empirical data support these stereotypes. Finally, we analyzed the level of success that immigrants attain, based on different demographic factors. We compared immigrants and people in the US by different demographic factors.</small><br>
 		<a href="https://docs.google.com/presentation/d/1ZntSUh4f5K-AHEX_e7vFSkVma3VJttOjVLMDRbAXq5M/edit?usp=sharing"><div class="color-button">presentation</div></a><br>
-		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">paper</div></a><br>	
-	</li><br>
+		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">paper</div></a><br><br>
+		<i>The main purpose of the study is to analyze the negative stereotypes behind the immigrants from 8 travel ban countries in the United States and the condition of living in the US. First, we made clusters of U.S states based on important features from the exploratory data analysis (Christan percent per state, Red State Voting per state, and etc. ), assigned a cluster number to individuals based on where they resided, and compared immigrants by clusters to analyze characteristics of individuals from different clusters. Then, we addressed negative stereotypes associated with crime and violence against immigrants, and examined whether the empirical data support these stereotypes. Finally, we analyzed the level of success that immigrants attain, based on different demographic factors. We compared immigrants and people in the US by different demographic factors.</i>
+	</li><br><br>
 	<li>
 		<b>Topological Data Analysis on Network of Game of Thrones</b><br>
 		Joint Mathematics Meetings, 2018<br>
-		<small>Persistent homology is an algebraic method to detect the topological features (such as connected components and holes) of high-dimensional data or data with noises. I used persistent homology to analyze the structure of a point cloud produced from a semantic analysis of the structure of a finite metric space of the network map of Game of Thrones. Using by 2-dimensional persistent homology software RIVET, random datasets generated by R was distinguished from the dataset of Game of Thrones. To discern differences between random datasets and the datasets, the notion of matching distance was introduced. In addition to analyzing the RIVET plots, I applied statistical tests to the topological differences between the datasets to confirm the conclusions.</small><br>
-		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">poster</div></a>
-	</li><br>
+		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">poster</div></a><br><br>
+		<i>Persistent homology is an algebraic method to detect the topological features (such as connected components and holes) of high-dimensional data or data with noises. I used persistent homology to analyze the structure of a point cloud produced from a semantic analysis of the structure of a finite metric space of the network map of Game of Thrones. Using by 2-dimensional persistent homology software RIVET, random datasets generated by R was distinguished from the dataset of Game of Thrones. To discern differences between random datasets and the datasets, the notion of matching distance was introduced. In addition to analyzing the RIVET plots, I applied statistical tests to the topological differences between the datasets to confirm the conclusions.</i>
+	</li><br><br>
 </ul>
 
 
@@ -56,40 +56,41 @@ title: Work Example
 <ul>
 	<li>
 		<b>TMDB Box Office Prediction by LGBM/XGB Regression Models</b><br>
-		[Kaggle Competition](https://www.kaggle.com/c/tmdb-box-office-prediction) (Ranked Top 6%) <br>
-		<small>Using metadata on over 7,000 past films from The Movie Database, I predicted the overall worldwide box office revenue by building Gradient Boosting models (LightGBM and XGBoost models). In the kaggle notebook, I went over how to approach the problem and built Gradient Boosting models with the help of exploratory data analysis (EDA) and feature engineering on the dataset. </small><br><a href="https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme"><div class="color-button">code</div></a>
-	</li><br>
+		<a href="https://www.kaggle.com/c/tmdb-box-office-prediction">Kaggle Competition</a> (Ranked Top 6%) <br>
+		<a href="https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme"><div class="color-button">code</div></a><br><br>
+		<i>Using metadata on over 7,000 past films from The Movie Database, I predicted the overall worldwide box office revenue by building Gradient Boosting models (LightGBM and XGBoost models). In the kaggle notebook, I went over how to approach the problem and built Gradient Boosting models with the help of exploratory data analysis (EDA) and feature engineering on the dataset. </i>
+	</li><br><br>
 	<li>
 		<b>Santander Customer Transaction Prediction by LGBM Classifier Tuned by Bayesian Optimization</b><br>
-		[Kaggle Competition](https://www.kaggle.com/c/santander-customer-transaction-prediction)
-		<small>The goal is to identify which customers will make a specific transaction in the future and maximize the evaluation function (AUC). I used LightGBM classifier tuned by Bayesian Optimization. The code might give you a good idea of Baysian Optimization and the simple implementation of Baysian Optimization with BayesianOptimization, which I found that it is faster than other Baysian Optimization functions in Python (ex. Scikit-Optimize and Hyperopt) for my model.</small><br>
-		<a href="https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm"><div class="color-button">code</div></a>
-	</li><br>
+		<a href="https://www.kaggle.com/c/santander-customer-transaction-prediction">Kaggle Competition</a><br>
+		<a href="https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm"><div class="color-button">code</div></a><br><br>
+		<i>The goal is to identify which customers will make a specific transaction in the future and maximize the evaluation function (AUC). I used LightGBM classifier tuned by Bayesian Optimization. The code might give you a good idea of Baysian Optimization and the simple implementation of Baysian Optimization with BayesianOptimization, which I found that it is faster than other Baysian Optimization functions in Python (ex. Scikit-Optimize and Hyperopt) for my model.</i>
+	</li><br><br>
 	<li>
 		<b>Making Youtube Title by LSTM</b><br>
-		<small>Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. In this code, I explained how to create a language model for generating natural language text by implementing and training state-of-the-art Recurrent Neural Network. </small><br>
-		<a href="https://www.kaggle.com/somang1418/youtube-video-title-generator-by-lstm-eda"><div class="color-button">code</div></a>
-	</li><br>
+	<a href="https://www.kaggle.com/somang1418/youtube-video-title-generator-by-lstm-eda"><div class="color-button">code</div></a><br><br>
+		<i>Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. In this code, I explained how to create a language model for generating natural language text by implementing and training state-of-the-art Recurrent Neural Network. </i>
+	</li><br><br>
 </ul>	
 
 
 <h4>R</h4>
 <ul>
 	<li>
-		<b>Using Markov Chains to Find an Approximate Solution for Travelling Salesman Problem</b><br>
-		<small>The Traveling Salesperson Problem (TSP) is a classic problem in combinatorial optimization. Given N points in a plane, we want to find the shortest path that visits all N points and returns to the starting point. It is called an NP-Hard problem because it is impossible to find the least cost of connecting all points in the graph. However, we can use Markov chains to find an approximate solution. I utilized Markov chains to find an approximate solution for the TSP in R.</small><br>
-		<a href="https://github.com/somang1418/Travelling_Salesman_Problem"><div class="color-button">code</div></a>
-	</li><br>
+		<b>Using Markov Chains to Find an Approximate Solution for Travelling Salesman Problem</b><br>		
+		<a href="https://github.com/somang1418/Travelling_Salesman_Problem"><div class="color-button">code</div></a><br><br>
+		<i>The Traveling Salesperson Problem (TSP) is a classic problem in combinatorial optimization. Given N points in a plane, we want to find the shortest path that visits all N points and returns to the starting point. It is called an NP-Hard problem because it is impossible to find the least cost of connecting all points in the graph. However, we can use Markov chains to find an approximate solution. I utilized Markov chains to find an approximate solution for the TSP in R.</i>
+	</li><br><br>
 	<li>
 		<b>The Effect of Attitudes Towards Mental Health in the Workplace</b><br>
-		<small>A study conducted by Claire Henderson, Sara Evans-Lacko and Graham Thornicroft, found that environments that foster positive attitudes towards mental health prompt individuals with mental illness to seek help. The goal of this study is to investigate the association between attitudes towards mental health in the workplace and an employee’s decision to seek mental health treatment. We built logistic regression models and compared models by evaluation metrics, such as bic and cp values in order to decide the final model.</small><br>
-		<a href="/rproject/Coding.html"><div class="color-button">code</div></a><a href="https://drive.google.com/file/d/1zBmm5hTOAroDYKKikHWuTarkIRcdKmmE/view?usp=sharing"><div class="color-button">report</div></a>
-	</li><br>
+		<a href="/rproject/Coding.html"><div class="color-button">code</div></a><a href="https://drive.google.com/file/d/1zBmm5hTOAroDYKKikHWuTarkIRcdKmmE/view?usp=sharing"><div class="color-button">report</div></a><br><br>
+		<i>A study conducted by Claire Henderson, Sara Evans-Lacko and Graham Thornicroft, found that environments that foster positive attitudes towards mental health prompt individuals with mental illness to seek help. The goal of this study is to investigate the association between attitudes towards mental health in the workplace and an employee’s decision to seek mental health treatment. We built logistic regression models and compared models by evaluation metrics, such as bic and cp values in order to decide the final model.</i>
+	</li><br><br>
 	<li>
 		<b>Text classification on Product Reviews from Amazon Kindle Store</b><br>
-		<small>In this project, we compared two different data organization methods on text classification. Specifically, we worked on three algorithms for each method including Linear Model, Linear Discriminant Analysis (LDA) and Random Forest as the evidence. At the same time, we recorded the time consumed for each algorithm to test the effeciency both processes.</small><br>
-		<a href="/rproject/Final.html"><div class="color-button">code</div></a>
-	</li><br>
+		<a href="/rproject/Final.html"><div class="color-button">code</div></a><br><br>
+		<i>In this project, we compared two different data organization methods on text classification. Specifically, we worked on three algorithms for each method including Linear Model, Linear Discriminant Analysis (LDA) and Random Forest as the evidence. At the same time, we recorded the time consumed for each algorithm to test the effeciency both processes.</i>
+	</li><br><br>
 	
 </ul>	
 
