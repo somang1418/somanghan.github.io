@@ -10,9 +10,10 @@ title: Work Example
 <ul>
 	<li>
 		<b>Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes</b><br>
-		American Educational Research Association Conference, 2019<br><br> 
-		<i>In order to help clarify the associations between intensity and breadth of out-of-school-time (OST) participation with SEL and academic outcomes, while illuminating differences in participation levels by student characteristics, we employed latent class analysis (LCA) with statewide data (anonymously administered to 168,733 public school students) to identify different classifications of OST activity participation that can aid practitioners to foster opportunities to improve students developmental skills and academic performance and success. Hierarchical linear modeling (HLM) was used to investigate the association between the OST classes and the seven outcome measures of developmental skills, supports and self-reported GPA while controlling for the covariates of grade, biological sex, race/ethnicity, special education status, FRL status, and changed schools in the last year. </i><br>
-		<a href="https://drive.google.com/file/d/1KHZiLYr9RUIb8mLNMSTKBuakwk-LRYbK/view?usp=sharing"><div class="color-button">summary</div></a> <a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">paper</div></a></li><br>
+		American Educational Research Association Conference, 2019<br>
+		<a href="https://drive.google.com/file/d/1KHZiLYr9RUIb8mLNMSTKBuakwk-LRYbK/view?usp=sharing"><div class="color-button">summary</div></a> <a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">paper</div></a><br><br>
+		<i>In order to help clarify the associations between intensity and breadth of out-of-school-time (OST) participation with SEL and academic outcomes, while illuminating differences in participation levels by student characteristics, we employed latent class analysis (LCA) with statewide data (anonymously administered to 168,733 public school students) to identify different classifications of OST activity participation that can aid practitioners to foster opportunities to improve students developmental skills and academic performance and success. Hierarchical linear modeling (HLM) was used to investigate the association between the OST classes and the seven outcome measures of developmental skills, supports and self-reported GPA while controlling for the covariates of grade, biological sex, race/ethnicity, special education status, FRL status, and changed schools in the last year. </i>
+	</li><br>
 	<li>
 		<b>Distributions of Matching Distances in Topological Data Analysis</b><br>
 	Underrepresented Students in Topology and Algebra Research Symposium, 2018<br><br>
@@ -54,12 +55,12 @@ title: Work Example
 <ul>
 	<li>
 		<b>TMDB Box Office Prediction by LGBM/XGB Regression Models</b><br>
-		(Kaggle Competition)[https://www.kaggle.com/c/tmdb-box-office-prediction] (Ranked Top 6%) <br>
+		[Kaggle Competition](https://www.kaggle.com/c/tmdb-box-office-prediction) (Ranked Top 6%) <br>
 		<small>Using metadata on over 7,000 past films from The Movie Database, I predicted the overall worldwide box office revenue by building Gradient Boosting models (LightGBM and XGBoost models). In the kaggle notebook, I went over how to approach the problem and built Gradient Boosting models with the help of exploratory data analysis (EDA) and feature engineering on the dataset. </small><br><a href="https://www.kaggle.com/somang1418/eda-lgb-xgb-modelings-with-a-cute-panda-meme"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>Santander Customer Transaction Prediction by LGBM Classifier Tuned by Bayesian Optimization</b><br>
-		(Kaggle Competition)[https://www.kaggle.com/c/santander-customer-transaction-prediction] 
+		[Kaggle Competition](https://www.kaggle.com/c/santander-customer-transaction-prediction)
 		<small>The goal is to identify which customers will make a specific transaction in the future and maximize the evaluation function (AUC). I used LightGBM classifier tuned by Bayesian Optimization. The code might give you a good idea of Baysian Optimization and the simple implementation of Baysian Optimization with BayesianOptimization, which I found that it is faster than other Baysian Optimization functions in Python (ex. Scikit-Optimize and Hyperopt) for my model.</small><br>
 		<a href="https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm"><div class="color-button">code</div></a>
 	</li><br>
