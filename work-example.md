@@ -5,6 +5,53 @@ title: Work Example
 ---
 
 
+
+<h2>Publications</h2>
+
+<ul>
+	<li>
+		<b>Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes</b><br>
+		<small> </small><br>
+		<i> Youngsoon Kang, Kyle Nickodem, Somang Han, Mireya Smith</i><br>
+		American Educational Research Association Conference, 2019<br>
+		<a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">pdf</div></a></li><br>
+	<a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">pdf</div></a></li><br>
+	<li>
+		<b>Distributions of Matching Distances in Topological Data Analysis</b><br>
+		<small>This paper provides an accessible introduction to two-parameter persistent homology and presents results about matching distance between 2-D persistence modules obtained from families of point clouds. Results include observations of how differences in geometric structure of point clouds affect the matching distance between persistence modules. We offer these results as a starting point for the investigation of more complex data.</small><br>
+		<i>Somang Han, Taylor Okonek, Nikesh Yadav, Xiaojun Zheng</i><br>
+		Underrepresented Students in Topology and Algebra Research Symposium, 2018<br>
+		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">pdf</div></a>
+</li><br>
+	
+</ul>		
+
+
+<h2>Research Projects</h2>
+
+<ul>
+	<li>
+		<b>Catching Credit Card Thieves with R</b><br>
+		 MinneFRAMA 2019<br>
+		<i>ID Insight</i><br>
+		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a>
+</li><br>
+	<li>
+		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
+		<i>Joshua Pelayo, Pony Ameri, Somang Han, Thu Ha</i><br>
+		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
+		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">report</div></a>
+	</li><br>
+	<li>
+		<b>Topological Data Analysis on Network of Game of Thrones</b><br>
+		<i>Somang Han</i><br>
+		Joint Mathematics Meetings, 2018<br>
+		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">poster</div></a>
+	</li><br>
+</ul>
+
+
+
 <h2>Projects</h2>
 <h3>Python</h3>
 
@@ -69,46 +116,7 @@ title: Work Example
 </ul>	
 
 			
-<h2>Publications</h2>
 
-<ul>
-	<li>
-		<b>Intensity and Breadth of OST Activity Participation: Connecting Latent Classes, Student Characteristics, and Educational Outcomes</b><br>
-		<i> Youngsoon Kang, Kyle Nickodem, Somang Han, Mireya Smith</i><br>
-		American Educational Research Association Conference, 2019<br>
-		<a href="https://drive.google.com/file/d/1jdzRhoTuqoWtFGOhjxIaHd1wMf0ZT-Bg/view"><div class="color-button">pdf</div></a></li><br>
-	<li>
-		<b>Distributions of Matching Distances in Topological Data Analysis</b><br>
-		<i>Somang Han, Taylor Okonek, Nikesh Yadav, Xiaojun Zheng</i><br>
-		Underrepresented Students in Topology and Algebra Research Symposium, 2018<br>
-		<a href="https://arxiv.org/abs/1812.11258"><div class="color-button">pdf</div></a>
-</li><br>
-	
-</ul>		
-
-
-<h2>Research Projects</h2>
-
-<ul>
-	<li>
-		<b>Catching Credit Card Thieves with R</b><br>
-		 MinneFRAMA 2019<br>
-		<i>ID Insight</i><br>
-		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a>
-</li><br>
-	<li>
-		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
-		<i>Joshua Pelayo, Pony Ameri, Somang Han, Thu Ha</i><br>
-		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
-		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">report</div></a>
-	</li><br>
-	<li>
-		<b>Topological Data Analysis on Network of Game of Thrones</b><br>
-		<i>Somang Han</i><br>
-		Joint Mathematics Meetings, 2018<br>
-		<a href="https://drive.google.com/file/d/1clj6gTlAm1Z17tWYzJO1BrhitJW5vLmS/view?usp=sharing"><div class="color-button">poster</div></a>
-	</li><br>
-</ul>
 	
 
 	
