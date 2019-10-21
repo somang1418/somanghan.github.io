@@ -37,7 +37,7 @@ title: Work Example
 	<li>
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
 		Math, Statistics, and Computer Science (MSCS) Direct Undergraduate Research, 2018<br>
-		<a href="https://docs.google.com/presentation/d/1ZntSUh4f5K-AHEX_e7vFSkVma3VJttOjVLMDRbAXq5M/edit?usp=sharing"><div class="color-button">presentation</div></a><br>
+		<a href="https://docs.google.com/presentation/d/1ZntSUh4f5K-AHEX_e7vFSkVma3VJttOjVLMDRbAXq5M/edit?usp=sharing"><div class="color-button">presentation</div></a>
 		<a href="https://drive.google.com/file/d/1hiBqw5hFSHBWaoGMc4juT7UXm_W9DGx0/view?usp=sharingharing"><div class="color-button">paper</div></a><br><br>
 		<i>The main purpose of the study is to analyze the negative stereotypes behind the immigrants from 8 travel ban countries in the United States and the condition of living in the US. First, we made clusters of U.S states based on important features from the exploratory data analysis (Christan percent per state, Red State Voting per state, and etc. ), assigned a cluster number to individuals based on where they resided, and compared immigrants by clusters to analyze characteristics of individuals from different clusters. Then, we addressed negative stereotypes associated with crime and violence against immigrants, and examined whether the empirical data support these stereotypes. Finally, we analyzed the level of success that immigrants attain, based on different demographic factors. We compared immigrants and people in the US by different demographic factors.</i>
 	</li><br><br>
