@@ -32,7 +32,7 @@ title: Work Example
 		<b>Catching Credit Card Thieves with R</b><br>
 		 MinneFRAMA 2019<br>
 		<a href="https://drive.google.com/file/d/1Jq3lt-XPHSYIKws6FHW42nJW8f4EQNu4/view?usp=sharing"><div class="color-button">presentation</div></a><br><br>
-		The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems were discussed as well.
+		The purpose of the presentation is to show the modeling building process for a predictive model for credit card frauds, understand how the model works, and acknowledge the limitations of the model. Large dataset manipulation, sampling methods for fraud dataset, and multicollinearity problems are discussed as well.
 </li><br><br>
 	<li>
 		<b>Analysis on Immigrants from Travel Ban Countries</b><br>
